@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "wmaurer.change-case",
+        "streetsidesoftware.code-spell-checker",
+        "editorconfig.editorconfig",
+        "dsznajder.es7-react-js-snippets",
+        "planbcoding.vscode-react-refactor",
+        "dbaeumer.vscode-eslint",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.npm-intellisense",
+        "EQuimper.react-native-react-redux"
+    ]
+}
